@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Herr Von Muellerhoff', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    background-color: rebeccapurple;
+}
+
+.navbar {
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+hr {
+    margin-top: 10px;
+}
+
+h2 {
+    margin: 15px;
+}
+
+h4 {
+    margin: 15px;
+}
+#logo h1 {
+    color: white;
+    margin-left: 25px;
+}
+
+#menu {
+    margin-right: 25px;
+    
+}
+
+#section {
+    list-style: none;
+    display: flex;
+}
+
+.nav-menu{
+    margin: 0 20px;
+    color: white;
+}
+
+.container {
+    margin: 30px;
+}
